@@ -1,2 +1,0 @@
-# Thalesia Intro
-
