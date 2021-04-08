@@ -4,5 +4,9 @@
 
 ## English
 
-* [Untitled](english/untitled.md)
+* [Thalesia Intro](english/intro.md)
+
+---
+
+* [Untitled](untitled.md)
 
